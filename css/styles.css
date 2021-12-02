@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+div {
+    text-align: center;
+}
+span {
+    text-align: center;
+}
+#sequence {
+    text-color: red;
+}
+.sensor1 {
+    background-color: cyan;
+}
+.sensor2 {
+    background-color: green;
+}
+canvas {
+    width: 100%;
+}
